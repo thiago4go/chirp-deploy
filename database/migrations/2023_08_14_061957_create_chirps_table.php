@@ -1,4 +1,4 @@
-<?phpI can start a new portal as I want! GREAT!
+<?php
 
 use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
